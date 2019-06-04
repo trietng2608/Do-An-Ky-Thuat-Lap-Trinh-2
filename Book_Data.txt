@@ -1,0 +1,6 @@
+5
+TDC1, Lap trinh 1, Khoa CNTT, Truong Cao Dang TDC, 20000, 2017, 80, 01/01/2017, 0
+TDC2, Lap trinh 2, Khoa CNTT, Truong Cao Dang TDC, 25000, 2018, 100, 02/02/2018, 0
+TDC3, Cau truc du lieu & Giai thuat, Khoa CNTT, Truong Cao Dang TDC, 30000, 2018, 120, 03/03/2018, 0
+TDC4, Lap trinh Java, FPT, Truong Dai Hoc FPT, 70000, 2018, 150, 04/04/2018, 0
+TDC5, Lap trinh Python, FPT, Truong Dai Hoc FPT, 100000, 2018, 200, 05/05/2018, 0
